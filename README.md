@@ -1,2 +1,2 @@
 # Config
-config
+Configuration file for config-server
